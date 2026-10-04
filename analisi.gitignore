@@ -1,0 +1,10 @@
+# Cache di Python
+__pycache__/
+*.pyc
+
+# Impostazioni locali di VS Code
+.vscode/
+
+# File di sistema macOS/Windows
+.DS_Store
+Thumbs.db
